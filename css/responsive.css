@@ -1,0 +1,721 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+@media (min-width: 320px) and (max-width: 575px) {
+
+    .center_text {
+        margin-right: 2px !important;
+    }
+
+    .center_text h2 {
+        font-size: 11px;
+    }
+
+    .center_text p {
+        font-size: 8px;
+    }
+
+    .center_photo {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .center_photo img {
+        width: 60% !important;
+    }
+
+    .center_text a {
+        margin-top: 10px !important;
+        font-size: 14px;
+        padding: 10px 20px;
+
+    }
+
+    .header_part_contant {
+        flex-direction: column-reverse !important;
+    }
+
+    .center_text {
+        margin: 20px 0;
+    }
+
+
+    .sitebar_imge {
+        padding-top: 20px;
+    }
+
+    .sitebar_imge img {
+        height: 5rem;
+        width: 5.5rem !important;
+        padding: 0;
+    }
+
+    .item_text h2 {
+        font-size: 10px;
+        padding-top: 25px;
+    }
+
+    .item_text h4 {
+        padding-top: 10px;
+        font-size: 8px;
+    }
+
+    .footer_img {
+        text-align: center;
+    }
+
+    .service h4 {
+        font-size: 23px;
+    }
+
+    .service p {
+        font-size: 5px;
+    }
+
+    .hasan h2 {
+        font-size: 12px;
+    }
+
+    .islam h2 {
+        font-size: 12px;
+    }
+
+    .mehedi h2 {
+        font-size: 12px;
+    }
+
+    .joy h2 {
+        font-size: 12px;
+    }
+
+    .graphy h2 {
+        font-size: 12px;
+    }
+
+    .advertising h2 {
+        font-size: 12px;
+    }
+
+    .advertising h4 {
+        font-size: 8px;
+    }
+
+    .graphy h4 {
+        font-size: 8px;
+    }
+
+    .joy h4 {
+        font-size: 8px;
+    }
+
+    .mehedi h4 {
+        font-size: 8px;
+    }
+
+    .islam h4 {
+        font-size: 8px;
+    }
+
+    .hasan h4 {
+        font-size: 8px;
+    }
+
+    .advertising h5 {
+        font-size: 8px;
+    }
+
+    .recommendations h4 {
+        font-size: 18px;
+    }
+
+    .recommendations p {
+        font-size: 5px;
+    }
+
+    .recommendations-item img {
+        margin-right: -5px;
+    }
+
+    .recommendations-item h4 {
+        font-size: 12px;
+    }
+
+    .recommendations-item h5 {
+        font-size: 7px;
+    }
+
+    .photo_text h3 {
+        font-size: 13px;
+    }
+
+    .photo_text h6 {
+        font-size: 10px;
+    }
+
+    .shilpi h4 {
+        font-size: 12px;
+    }
+
+    .tofiq h5 {
+        margin-top: 0px;
+    }
+
+    .tasin h4 {
+        font-size: 9px;
+    }
+
+    .tasin p {
+        font-size: 7px;
+    }
+
+    .item a {
+        margin: 1px;
+        font-size: 5px;
+    }
+
+    .text_img h4 {
+        font-size: 8px;
+    }
+
+
+    .text_img p {
+        font-size: 7px;
+    }
+
+    .logo_text h5 {
+        font-size: 10px;
+    }
+
+    .logo_text a i {
+        font-size: 7px;
+    }
+
+    .leave_text h4 {
+        font-size: 19px;
+    }
+
+    .table h5 {
+        font-size: 7px;
+    }
+
+    #btnn {
+        height: 35px;
+        width: 111px;
+        font-size: 10px;
+    }
+
+    .leave_text h4 {
+        font-size: 16px;
+    }
+
+    .location h5 {
+        padding-top: 12px;
+        font-size: 7px;
+    }
+
+    .location p {
+        font-size: 7px;
+    }
+
+    .location_item h5 {
+        font-size: 7px;
+    }
+
+    .location_item p {
+        font-size: 7px;
+    }
+
+    .footer_text h5 {
+        font-size: 7px;
+    }
+
+    .milon h4 {
+        font-size: 6px;
+        height: 8px;
+    }
+
+    .milon p {
+        font-family: Inter;
+        font-size: 6px;
+        font-weight: 400;
+    }
+
+    .milon p span {
+        font-size: 6px;
+    }
+
+    .line_item {
+        margin-top: 15px;
+    }
+
+    .area_text h4 {
+        font-size: 14px;
+    }
+
+    .text_Skills p {
+        font-size: 10px;
+    }
+
+    .text_Skills img {
+        height: 15px;
+        width: 18px
+    }
+
+    .hamza p {
+        padding-top: 4px;
+        font-size: 5px;
+    }
+
+    .hamza img {
+        padding-top: 2px;
+        height: 10px;
+        width: 8px;
+    }
+
+    .item_button a {
+        font-size: 12px;
+        padding: 14px 40px;
+    }
+
+    .item_button a {
+        font-size: 8px;
+        padding: 14px 8px;
+    }
+
+    .item_button a i {
+        font-size: 6Px;
+    }
+
+    
+    
+
+
+
+
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .header_part_contant {
+        flex-direction: column-reverse !important;
+    }
+
+    .center_photo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .center_photo img {
+        width: 20vw !important;
+    }
+
+    .center_text h2 {
+        font-size: 26px;
+    }
+
+    .center_text p {
+        font-size: 10px;
+    }
+
+    .center_text {
+        margin-top: 50px;
+    }
+
+    .sitebar_imge img {
+        height: 121px;
+        padding: 14px;
+    }
+
+    .item_text h2 {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+
+    .item_text h4 {
+        padding-top: 10px;
+        font-size: 10px;
+    }
+
+    .service p {
+        font-size: 10px;
+    }
+
+
+
+    .recommendations p {
+        font-size: 10px;
+    }
+
+    .tofiq h5 {
+        margin-top: 0px;
+    }
+
+    .tasin p {
+        font-size: 9px;
+    }
+
+    .item a {
+        margin: 2px;
+        font-size: 11px;
+    }
+
+    .milon h4 {
+        font-size: 10px;
+        height: 11px;
+    }
+
+    .milon p {
+        font-size: 8px;
+    }
+
+    .milon p span {
+        font-size: 8px;
+    }
+
+    .line_item {
+        margin-top: 15px;
+    }
+
+    .hamza p {
+        padding-top: 6px;
+        font-size: 7px;
+    }
+
+    .item_button a {
+        font-size: 12px;
+        padding: 14px 12px;
+    }
+
+   
+
+}
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .header_part_contant {
+        flex-direction: column-reverse !important;
+    }
+
+    .center_photo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .center_photo img {
+        width: 20vw !important;
+    }
+
+    .center_text h2 {
+        font-size: 30px;
+    }
+
+    .center_text {
+        margin-top: 50px;
+    }
+
+    .center_text p {
+        font-size: 14px;
+    }
+
+    .sitebar_imge img {
+        height: 170px;
+        padding: 20px;
+    }
+
+    .item_text h2 {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+    .hasan h2 {
+        font-size: 12px;
+    }
+
+    .islam h2 {
+        font-size: 13px;
+    }
+
+    .mehedi h2 {
+        font-size: 13px;
+    }
+
+    .hasan h4 {
+        font-size: 10px;
+    }
+
+    .islam h4 {
+        font-size: 9px;
+    }
+
+    .mehedi h4 {
+        font-size: 10px;
+    }
+
+    .joy h2 {
+        font-size: 12px;
+    }
+
+    .joy h4 {
+        padding-top: 4px;
+        font-size: 7px;
+    }
+
+    .advertising h2 {
+        padding-top: 30px;
+        font-size: 20px;
+    }
+
+    .advertising h4 {
+        padding-top: 15px;
+        font-size: 8px;
+    }
+
+    .graphy h2 {
+        padding-top: 25px;
+        font-size: 12px;
+    }
+
+    .graphy h4 {
+        padding-top: 2px;
+        font-size: 8px;
+    }
+
+
+    .recommendations-item img {
+        margin-right: -7px;
+    }
+
+    .recommendations-item h4 {
+        font-size: 10px;
+    }
+
+    .recommendations-item h5 {
+        font-size: 7px;
+    }
+
+    .photo_text h3 {
+        font-size: 5px;
+    }
+
+    .photo_text h6 {
+        font-size: 4px;
+    }
+
+    .shilpi h4 {
+        font-size: 16px;
+    }
+
+    .tasin h4 {
+        font-size: 16px;
+    }
+
+    .mehedi h5 {
+        font-size: 7px;
+    }
+
+    .tofiq h5 {
+        margin-top: 27px;
+        font-size: 4px;
+    }
+
+    .tasin p {
+        font-size: 6px;
+    }
+
+    .item a {
+        margin: 12px;
+        font-size: 12px;
+    }
+
+    .text_img h4 {
+        font-size: 7px;
+    }
+
+    .text_img p {
+        font-size: 7px;
+    }
+
+    .logo_text h5 {
+        font-size: 4px;
+    }
+
+    .logo_text a i {
+        font-size: 4px;
+    }
+
+    .leave_text h4 {
+        font-size: 17px;
+    }
+
+    .table h5 {
+        font-size: 14px;
+    }
+
+    .leave-item img {
+        margin-top: 21px;
+    }
+
+    .location h5 {
+        padding-top: 21px;
+        font-size: 9px;
+    }
+
+    .location p {
+        padding-top: 22px;
+        font-size: 7px;
+    }
+
+    .location_item h5 {
+        padding-top: 20px;
+        font-size: 9px;
+    }
+
+    .location_item p {
+        padding-top: 20px;
+        font-size: 7px;
+    }
+
+    .milon p {
+        font-size: 11px;
+    }
+
+    .milon h4 {
+        font-size: 13px;
+        height: 17px;
+    }
+
+    .hamza p {
+        padding-top: 4px;
+        font-size: 12px;
+    }
+
+    .item_button a {
+        padding: 14px 29px;
+    }
+
+    
+
+
+
+
+
+
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .center_text h2 {
+        font-size: 32px;
+    }
+
+    .center_text p {
+        font-size: 12px;
+    }
+
+    .center_photo {
+        width: 238.72px;
+        margin-top: 10px;
+    }
+
+    .sitebar_imge img {
+        height: 217px;
+        padding: 24px;
+    }
+
+    .advertising h4 {
+        font-size: 12px;
+    }
+
+    .graphy h4 {
+        font-size: 10px;
+    }
+
+    .joy h4 {
+        font-size: 10px;
+    }
+
+    .graphy h2 {
+        font-size: 11px;
+    }
+
+    .joy h2 {
+        font-size: 11px;
+    }
+
+
+    .recommendations-item img {
+        margin-right: 7px;
+    }
+
+    .recommendations-item h5 {
+        font-size: 10px;
+    }
+
+    .photo_text h3 {
+        font-size: 11px;
+    }
+
+    .photo_text h6 {
+        font-size: 9px;
+    }
+
+    .mehedi h5 {
+        font-size: 10px;
+    }
+
+    .tofiq h5 {
+        font-size: 6px;
+    }
+
+    .tasin p {
+        font-size: 10px;
+    }
+
+    .item a {
+        margin: 24px;
+        font-size: 16px;
+    }
+
+    .text_img h4 {
+        font-size: 12px;
+    }
+
+    .text_img p {
+        font-size: 12px;
+    }
+
+    .logo_text h5 {
+        font-size: 10px;
+    }
+
+    .logo_text a i {
+        font-size: 7px;
+    }
+
+    .leave_text h4 {
+        font-size: 29px;
+    }
+
+
+
+
+
+
+}
+
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399px) {}
+
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    ...
+}
